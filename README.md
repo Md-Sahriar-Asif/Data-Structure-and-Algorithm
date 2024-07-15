@@ -2,7 +2,7 @@
 Above, I have provided codes for various data structures and algorithms. Below, you will find links to videos that explain the concepts and code in detail. Please note that most of the videos are in Hindi language.
 
 1. Stack folder:
-   Stack/stack1.cpp:- https://www.youtube.com/watch?v=JvuaAgDar1c&t=298s
+   Stack/stack1.cpp :- https://www.youtube.com/watch?v=JvuaAgDar1c&t=298s
    
 2. Queue folder:
    (Queue/queue_1.cpp):- https://www.youtube.com/watch?v=fbonDkYsKj0
