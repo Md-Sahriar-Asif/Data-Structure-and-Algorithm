@@ -19,4 +19,8 @@ Above, I have provided codes for various data structures and algorithms. Below, 
    (Hash/hash-2.cpp):- https://www.youtube.com/watch?v=EMvLygYr6Gg&list=PLzjZaW71kMwQ-D3oxCEDHAvYu8VC1XOsS&index=6
    (Hash/hash-3.cpp):- https://www.youtube.com/watch?v=Uv0kd7mM0ts&list=PLzjZaW71kMwQ-D3oxCEDHAvYu8VC1XOsS&index=7
      -Note: here we implemented hash with STL.Furthermore if it is possible for u, watch other videos of that playlist-
+
+5. Tree folder:
+   (binary_tree-1.cpp):- https://www.youtube.com/watch?v=_jKa4gycZTw&t=4s
+                      -> https://www.youtube.com/watch?v=67zlUtAr2LE
    
