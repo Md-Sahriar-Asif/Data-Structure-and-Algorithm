@@ -15,12 +15,15 @@ Above, I have provided codes for various data structures and algorithms. Below, 
 (doubly-LL-1.cpp):- https://www.youtube.com/watch?v=c_dqAyQu84A
 
 4. Hash folder:
-(hash-1.cpp):- https://www.youtube.com/watch?v=G87TuBjByts&list=PLzjZaW71kMwQ-D3oxCEDHAvYu8VC1XOsS&index=2
-(hash-2.cpp):- https://www.youtube.com/watch?v=EMvLygYr6Gg&list=PLzjZaW71kMwQ-D3oxCEDHAvYu8VC1XOsS&index=6
-(hash-3.cpp):- https://www.youtube.com/watch?v=Uv0kd7mM0ts&list=PLzjZaW71kMwQ-D3oxCEDHAvYu8VC1XOsS&index=7
--Note: here we implemented hash with STL.Furthermore if it is possible for u, watch other videos of that playlist-
+a. (hash-1.cpp):- https://www.youtube.com/watch?v=G87TuBjByts&list=PLzjZaW71kMwQ-D3oxCEDHAvYu8VC1XOsS&index=2
 
-5. Tree folder:
+b. (hash-2.cpp):- https://www.youtube.com/watch?v=EMvLygYr6Gg&list=PLzjZaW71kMwQ-D3oxCEDHAvYu8VC1XOsS&index=6
+
+c. (hash-3.cpp):- https://www.youtube.com/watch?v=Uv0kd7mM0ts&list=PLzjZaW71kMwQ-D3oxCEDHAvYu8VC1XOsS&index=7
+
+-Note: here we implemented hash with STL. Furthermore if it is possible for u, watch other videos of that playlist-
+
+6. Tree folder:
 (binary_tree-1.cpp):- https://www.youtube.com/watch?v=_jKa4gycZTw&t=4s
 (&) https://www.youtube.com/watch?v=67zlUtAr2LE
 (binary_tree-2.cpp):- https://www.youtube.com/watch?v=HJKoNLGRnYk
