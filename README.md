@@ -96,3 +96,16 @@ Above, I have provided codes for various data structures and algorithms. Below, 
 
 (bellman-ford_algo.cpp):- https://www.youtube.com/watch?v=ijpVpsmpJtQ&list=PLDzeHZWIZsTryvtXdMr6rPh4IDexB5NIA&index=110
 
+7. Sorting Algorithm folder:
+
+(merge_sort.cpp):- https://www.youtube.com/watch?v=unxAnJBy12Q&list=LL&index=2
+
+(quick_sort.cpp):- https://www.youtube.com/watch?v=QXum8HQd_l4&list=LL&index=1
+
+(heap_sort.cpp):- https://www.youtube.com/watch?v=NKJnHewiGdc&t=3s (video start from 48:55)
+
+(insertion_sort.cpp):- https://www.youtube.com/watch?v=3GC83dh4cf0
+
+8. Searching Algorithm folder:
+
+(linear_srch.cpp & binary_srch.cpp):- https://www.youtube.com/watch?v=13ocRMSJy5M
