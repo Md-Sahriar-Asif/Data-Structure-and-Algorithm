@@ -55,4 +55,44 @@ Above, I have provided codes for various data structures and algorithms. Below, 
 (binary_tree-9.cpp):- https://www.youtube.com/watch?v=E1f9ncPxgPE
 
 (binary_tree-10.cpp):- https://www.youtube.com/watch?v=WR6-DrAsNpc
+
+(BST-1.cpp):- https://www.youtube.com/watch?v=ScdwdSCnXDU&list=PLfqMhTWNBTe0b2nM6JHVCnAkhQRGiZMSJ&index=107
+
+(BST-2.cpp):- https://www.youtube.com/watch?v=kU9Lv3e_kxs&list=PLfqMhTWNBTe0b2nM6JHVCnAkhQRGiZMSJ&index=108
+
+(BST-3.cpp):- https://www.youtube.com/watch?v=vFW80O0NzBU&list=PLfqMhTWNBTe0b2nM6JHVCnAkhQRGiZMSJ&index=109
+
+(BST-4.cpp):- https://www.youtube.com/watch?v=_XgTN72fguk&list=PLfqMhTWNBTe0b2nM6JHVCnAkhQRGiZMSJ&index=110
+
+(BST-5.cpp):- https://www.youtube.com/watch?v=C59kWTK4_Zs&list=PLfqMhTWNBTe0b2nM6JHVCnAkhQRGiZMSJ&index=111
+
+(BST-6.cpp):- https://www.youtube.com/watch?v=1ZAotQGnbi4&list=PLfqMhTWNBTe0b2nM6JHVCnAkhQRGiZMSJ&index=112
+
+(BST-7.cpp):- https://www.youtube.com/watch?v=xtuhK-a18is&list=PLfqMhTWNBTe0b2nM6JHVCnAkhQRGiZMSJ&index=113
+
+(BST-8.cpp):- https://www.youtube.com/watch?v=ftBT8kH-QtM&list=PLfqMhTWNBTe0b2nM6JHVCnAkhQRGiZMSJ&index=114
+
+(BST-9.cpp):- https://www.youtube.com/watch?v=eI3lzXlmH2U&list=PLfqMhTWNBTe0b2nM6JHVCnAkhQRGiZMSJ&index=116
+
+(heap-1.cpp & heap-2.cpp & heap-3.cpp):- https://www.youtube.com/watch?v=NKJnHewiGdc&list=LL&index=7
+
+(AVL-1.cpp):- https://www.youtube.com/watch?v=npnAlIbyknI&list=LL&index=6 (&) https://www.youtube.com/watch?v=MNGIzdNPQl4&t=1022s (&) https://www.youtube.com/watch?v=Wdy36bumttg
    
+6. Graph folder:
+
+(graph-1.cpp):- https://www.youtube.com/watch?v=EaK6aslcC5g&list=LL&index=5&t=1s
+
+(graph-2.cpp):- https://www.geeksforgeeks.org/detect-cycle-in-an-undirected-graph-using-bfs/
+
+(graph-3.cpp):- https://www.geeksforgeeks.org/detect-cycle-undirected-graph/
+
+(graph-4.cpp):- https://www.geeksforgeeks.org/detect-cycle-in-a-directed-graph-using-bfs/
+
+(BFS_algo.cpp):- https://www.geeksforgeeks.org/breadth-first-search-or-bfs-for-a-graph/
+
+(DFS_algo.cpp):- https://www.geeksforgeeks.org/depth-first-search-or-dfs-for-a-graph/
+
+(dijkstras_algo.cpp):- https://www.youtube.com/watch?v=dVUR3Rm6biE&list=PLDzeHZWIZsTryvtXdMr6rPh4IDexB5NIA&index=104
+
+(bellman-ford_algo.cpp):- https://www.youtube.com/watch?v=ijpVpsmpJtQ&list=PLDzeHZWIZsTryvtXdMr6rPh4IDexB5NIA&index=110
+
