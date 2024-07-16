@@ -4,10 +4,12 @@ Above, I have provided codes for various data structures and algorithms. Below, 
 1. Stack folder:
  
 (stack1.cpp):- https://www.youtube.com/watch?v=JvuaAgDar1c&t=298s
-   
+
+
 2. Queue folder:
 
 (queue_1.cpp):- https://www.youtube.com/watch?v=fbonDkYsKj0
+
 
 3. Linked List folder:
  
@@ -21,6 +23,7 @@ Above, I have provided codes for various data structures and algorithms. Below, 
 
 (doubly-LL-1.cpp):- https://www.youtube.com/watch?v=c_dqAyQu84A
 
+
 4. Hash folder:
  
 (hash-1.cpp):- https://www.youtube.com/watch?v=G87TuBjByts&list=PLzjZaW71kMwQ-D3oxCEDHAvYu8VC1XOsS&index=2
@@ -30,6 +33,7 @@ Above, I have provided codes for various data structures and algorithms. Below, 
 (hash-3.cpp):- https://www.youtube.com/watch?v=Uv0kd7mM0ts&list=PLzjZaW71kMwQ-D3oxCEDHAvYu8VC1XOsS&index=7
 
 -Note: here we implemented hash with STL. Furthermore if it is possible for u, watch other videos of that playlist-
+
 
 5. Tree folder:
  
@@ -77,6 +81,7 @@ Above, I have provided codes for various data structures and algorithms. Below, 
 (heap-1.cpp & heap-2.cpp & heap-3.cpp):- https://www.youtube.com/watch?v=NKJnHewiGdc&list=LL&index=7
 
 (AVL-1.cpp):- https://www.youtube.com/watch?v=npnAlIbyknI&list=LL&index=6 (&) https://www.youtube.com/watch?v=MNGIzdNPQl4&t=1022s (&) https://www.youtube.com/watch?v=Wdy36bumttg
+
    
 6. Graph folder:
 
@@ -96,6 +101,7 @@ Above, I have provided codes for various data structures and algorithms. Below, 
 
 (bellman-ford_algo.cpp):- https://www.youtube.com/watch?v=ijpVpsmpJtQ&list=PLDzeHZWIZsTryvtXdMr6rPh4IDexB5NIA&index=110
 
+
 7. Sorting Algorithm folder:
 
 (merge_sort.cpp):- https://www.youtube.com/watch?v=unxAnJBy12Q&list=LL&index=2
@@ -105,6 +111,7 @@ Above, I have provided codes for various data structures and algorithms. Below, 
 (heap_sort.cpp):- https://www.youtube.com/watch?v=NKJnHewiGdc&t=3s (video start from 48:55)
 
 (insertion_sort.cpp):- https://www.youtube.com/watch?v=3GC83dh4cf0
+
 
 8. Searching Algorithm folder:
 
