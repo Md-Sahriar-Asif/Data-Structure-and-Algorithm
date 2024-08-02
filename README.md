@@ -116,3 +116,7 @@ Above, I have provided codes for various data structures and algorithms. Below, 
 8. Searching Algorithm folder:
 
 (linear_srch.cpp & binary_srch.cpp):- https://www.youtube.com/watch?v=13ocRMSJy5M
+
+9. Bit Manipulation folder:
+
+(bit_manipu-1.cpp):- https://www.youtube.com/watch?v=MiJdgxTWaFs
