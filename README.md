@@ -120,3 +120,11 @@ Above, I have provided codes for various data structures and algorithms. Below, 
 9. Bit Manipulation folder:
 
 (bit_manipu-1.cpp):- https://www.youtube.com/watch?v=MiJdgxTWaFs
+
+10. Backtracking
+
+(basic):- https://www.youtube.com/watch?v=DKCbsiDBN6c
+
+(backtracking-1.cpp):- https://www.youtube.com/watch?v=4BBB0mvvbGA
+
+(backtracking-2.cpp):- https://www.youtube.com/watch?v=1OkZKjxRokU
