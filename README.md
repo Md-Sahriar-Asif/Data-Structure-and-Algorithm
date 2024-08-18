@@ -1,4 +1,5 @@
 # Data-Structure-and-Algorithm
+This repository is primarily for clearing up the basic concepts of DSA.
 Above, I have provided codes for various data structures and algorithms. Below, you will find links to videos that explain the concepts and code in detail. Please note that most of the videos are in Hindi language.
 
 1. Stack folder:
