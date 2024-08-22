@@ -122,10 +122,23 @@ Above, I have provided codes for various data structures and algorithms. Below, 
 
 (bit_manipu-1.cpp):- https://www.youtube.com/watch?v=MiJdgxTWaFs
 
-10. Backtracking
+10. Backtracking folder
 
 (basic):- https://www.youtube.com/watch?v=DKCbsiDBN6c
 
 (backtracking-1.cpp):- https://www.youtube.com/watch?v=4BBB0mvvbGA
 
 (backtracking-2.cpp):- https://www.youtube.com/watch?v=1OkZKjxRokU
+
+11. Dynamic Programming folder
+
+(dp-1.cpp):- https://youtu.be/PGsgv6nXhLw?si=wYy7zsiyaIjFUEbe
+
+(dp-2.cpp):- https://youtu.be/J2eoCvk59Rc?si=lmi38uPMnHEpwGJC
+
+(dp-3.cpp):- https://youtu.be/tkoM1Pgt0Q4?si=xfRVV58012G3QuWM
+
+(dp-4.cpp):- https://youtu.be/mNrzyuus2h4?si=mfeGpniZTAvoMasg
+
+(dp-5.cpp):- https://youtu.be/y1b8pObvndA?si=wzHllE_xMiUWwGjS
+
