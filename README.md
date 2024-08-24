@@ -142,3 +142,5 @@ Above, I have provided codes for various data structures and algorithms. Below, 
 
 (dp-5.cpp):- https://youtu.be/y1b8pObvndA?si=wzHllE_xMiUWwGjS
 
+(dp-6.cpp):- https://www.youtube.com/watch?v=MFAAZW2znv8&t=947s
+
